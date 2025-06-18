@@ -1,0 +1,60 @@
+@font-face {
+      font-family: "Jaini-Regular";
+      src: url("/fontFile/Jaini-Regular.ttf") format("truetype");
+      font-weight: normal;
+      font-style: normal;
+    }@font-face {
+      font-family: "Jacquard24Charted-Regular";
+      src: url("/fontFile/Jacquard24Charted-Regular.ttf") format("truetype");
+      font-weight: normal;
+      font-style: normal;
+    }@font-face {
+      font-family: "Roboto-Thin";
+      src: url("/fontFile/Roboto-Thin.ttf") format("truetype");
+      font-weight: normal;
+      font-style: normal;
+    }@font-face {
+      font-family: "Branda-yolq";
+      src: url("/fontFile/Branda-yolq.ttf") format("truetype");
+      font-weight: normal;
+      font-style: normal;
+    }@font-face {
+      font-family: "Caveat-VariableFont_wght";
+      src: url("/fontFile/Caveat-VariableFont_wght.ttf") format("truetype");
+      font-weight: normal;
+      font-style: normal;
+    }
+    @font-face {
+  font-family: "BBC TV Channel Logos";
+  src: url("/fontFile/BBC TV Channel Logos.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+    }
+
+@font-face {
+  font-family: "PlayfulTime-BLBB8";
+  src: url("/fontFile/PlayfulTime-BLBB8.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "tlc_mink_by_jpreckless2444_ddk56uv.otf";
+  src: url("/fontFile/tlc_mink_by_jpreckless2444_ddk56uv.otf.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "noggin_bulb_by_jpreckless2444_dd9dypo.otf";
+  src: url("/fontFile/noggin_bulb_by_jpreckless2444_dd9dypo.otf.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Jasmine";
+  src: url("/fontFile/Jasmine.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}

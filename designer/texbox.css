@@ -1,0 +1,10 @@
+.textBox {
+    padding: 0px;
+    background: transparent;
+    transition: all 0.3s;
+    scroll-behavior: smooth;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden; /* add this */
+}
